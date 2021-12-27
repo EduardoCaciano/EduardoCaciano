@@ -1,7 +1,7 @@
 ### Olá, sou o Eduardo seja bem vindo ao meu repositório!!!  👋
 
-
-- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/eduardo-da-silva-caciano-5b5281206/
+💻 - Atualmente estou focado em meus estudos em JavaScript e NodeJs. </br>
+📚 - Formado em Técnico em Desenvolvimento de Sistemas - SENAI Jandira. </br>
 
 <div align="center">
   <a href="https://github.com/EduardoCaciano">
@@ -17,6 +17,7 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
+    
 
   
   ##
@@ -27,7 +28,6 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img align="right" alt="Gustavo-Brazil" src="https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif">
  
 </div>
